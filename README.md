@@ -5,7 +5,7 @@
 
 ---
 
-## 📄 Project Overview
+##  Project Overview
 
 This project is part of the **Open Source Software (OSS) NGMC Course Capstone Project**. It presents a structured audit of **Mozilla Firefox** as an open-source system and demonstrates practical Linux system administration skills using shell scripting.
 
@@ -13,7 +13,7 @@ The audit focuses on understanding Firefox not just as a browser, but as a compl
 
 ---
 
-## 🔍 Audit Scope
+##  Audit Scope
 
 The project covers the following key areas:
 
@@ -43,7 +43,7 @@ The project covers the following key areas:
 
 ---
 
-## 🛠 Shell Scripts (Section 4)
+## Shell Scripts (Section 4)
 
 This repository includes five Bash scripts demonstrating essential Linux concepts:
 
@@ -67,7 +67,7 @@ This repository includes five Bash scripts demonstrating essential Linux concept
 
 ---
 
-## ▶️ Installation & Usage
+##  Installation & Usage
 
 1. Clone the repository:
    ```bash
