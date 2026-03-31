@@ -57,7 +57,7 @@ This repository includes five Bash scripts demonstrating essential Linux concept
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Linux OS (Ubuntu, Fedora, or similar)
